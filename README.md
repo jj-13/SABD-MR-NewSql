@@ -1,6 +1,6 @@
 # SABD-MR-NewSql
 
-## Información Modelo relacional 
+## Información PostgreSql 
 13 tablas
 
 ### tabla cliente
