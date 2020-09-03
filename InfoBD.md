@@ -42,4 +42,9 @@
 ### tabla usa
 14 datos 
 
-## total datos 157 
+# total datos 157 
+
+## Información CockRoachDB
+13 tablas
+
+# total datos 157
