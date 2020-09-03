@@ -1,6 +1,6 @@
 # SABD-MR-NewSql
 
-En este archivo se encuentra la cantidad de datos y tablas del SGBD relacional y NewSql
+En este archivo se encuentra la cantidad de datos y tablas del SGBD relacional y NewSql.
 
 ## Información PostgreSql 
 13 tablas
