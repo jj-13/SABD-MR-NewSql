@@ -12,7 +12,7 @@ En este archivo se encuentra la cantidad de datos y tablas del SGBD relacional y
 13 datos
 
 ### tabla factura
-17 datos
+18 datos
  
 ### tabla factura_prov
 11 datos 
@@ -44,9 +44,9 @@ En este archivo se encuentra la cantidad de datos y tablas del SGBD relacional y
 ### tabla usa
 14 datos 
 
-# total datos 157 
+# total datos 158 
 
 ## Información CockRoachDB
 13 tablas
 
-# total datos 157
+# total datos 158
